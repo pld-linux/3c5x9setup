@@ -5,8 +5,13 @@ Version:	0.05b.redhog.1
 Release:	1
 License:	GPL
 Group:		Networking/Utilities
-URL:		http://mini.dhs.org/Projects/Programming/Current/3c5x9setup/
+# mini.dhs.org is dead
+# newer version (v1.00) by Donald Becker, but without redhog changes:
+# Source0:	ftp://ftp.scyld.com/pub/diag/3c5x9setup.c
 Source0:	http://mini.dhs.org/Projects/Programming/Current/3c5x9setup/Sources/%{name}.donald.becker.%{version}.c
+URL:		http://www.scyld.com/diag/3c5x9setup.html
+# not working
+#URL:		http://mini.dhs.org/Projects/Programming/Current/3c5x9setup/
 ExclusiveArch:	%{ix86}
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 

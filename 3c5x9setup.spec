@@ -5,10 +5,6 @@ Version:	0.05b.redhog.1
 Release:	1
 License:	GPL
 Group:		Networking/Utilities
-Group(de):	Netzwerkwesen/Werkzeuge
-Group(es):	Red/Utilitarios
-Group(pl):	Sieciowe/Narzêdzia
-Group(pt_BR):	Rede/Utilitários
 URL:		http://mini.dhs.org/Projects/Programming/Current/3c5x9setup/
 Source0:	http://mini.dhs.org/Projects/Programming/Current/3c5x9setup/Sources/%{name}.donald.becker.%{version}.c
 ExclusiveArch:	%{ix86}

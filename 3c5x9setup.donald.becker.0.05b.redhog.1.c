@@ -15,7 +15,7 @@
 
    Instructions are at
      http://cesdis.gsfc.nasa.gov/linux/diag/index.html
-     http://3c5x9.mini.dhs.org
+     http://3c5x9.redhog.org
 
    This program must be compiled with "-O"!  See the bottom of this file
    for the suggested compile-command.

@@ -2,7 +2,7 @@ Summary:	Configuration and diagnostic utils for 3Com 5x9 cards
 Summary(pl):	Narzêdzia konfiguracyjne i diagnostyczne dla kart 3Com 5x9
 Name:		3c5x9setup
 Version:	0.05b.redhog.1
-Release:	3
+Release:	4
 License:	GPL
 Group:		Networking/Utilities
 # newer version (v1.00) by Donald Becker, but without redhog changes:
@@ -11,7 +11,7 @@ Source0:	http://redhog.org/Projects/Programming/Current/3c5x9setup/Sources/%{nam
 # Don't use Source0-md5 here. It is a text file!
 #URL:		http://www.scyld.com/diag/3c5x9setup.html
 URL:		http://redhog.org/Projects/Programming/Current/3c5x9setup/
-ExclusiveArch:	%{ix86}
+ExclusiveArch:	%{ix86} alpha
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description

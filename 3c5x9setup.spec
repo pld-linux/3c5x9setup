@@ -7,6 +7,7 @@ License:	GPL
 Group:		Networking/Utilities
 # newer version (v1.00) by Donald Becker, but without redhog changes:
 # Source0:	ftp://ftp.scyld.com/pub/diag/3c5x9setup.c
+#Source0Download: http://redhog.org/Projects/Programming/Current/3c5x9setup/
 Source0:	http://redhog.org/Projects/Programming/Current/3c5x9setup/Sources/%{name}.donald.becker.%{version}.c
 # Don't use Source0-md5 here. It is a text file!
 #URL:		http://www.scyld.com/diag/3c5x9setup.html

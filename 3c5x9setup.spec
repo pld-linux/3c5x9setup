@@ -1,5 +1,5 @@
 Summary:	Configuration and diagnostic utils for 3Com 5x9 cards
-Summary(pl.UTF-8):   Narzędzia konfiguracyjne i diagnostyczne dla kart 3Com 5x9
+Summary(pl.UTF-8):	Narzędzia konfiguracyjne i diagnostyczne dla kart 3Com 5x9
 Name:		3c5x9setup
 Version:	0.05b.redhog.1
 Release:	4

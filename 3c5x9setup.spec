@@ -1,5 +1,5 @@
 Summary:	Configuration and diagnostic utils for 3Com 5x9 cards
-Summary(pl):	Narzêdzia konfiguracyjne i diagnostyczne dla kart 3Com 5x9
+Summary(pl.UTF-8):   NarzÄ™dzia konfiguracyjne i diagnostyczne dla kart 3Com 5x9
 Name:		3c5x9setup
 Version:	0.05b.redhog.1
 Release:	4
@@ -19,8 +19,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 EEPROM setup and diagnostic program for the 3Com 3c5x9 series
 ethercards.
 
-%description -l pl
-Narzêdzie do konfiguracji EEPROM i diagnostyki kart sieciowych 3Com
+%description -l pl.UTF-8
+NarzÄ™dzie do konfiguracji EEPROM i diagnostyki kart sieciowych 3Com
 serii 3c5x9.
 
 %prep
